@@ -1,0 +1,7 @@
+C:\Main\Projects\VS2019\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\Main\Projects\VS2019\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Main\Projects\VS2019\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Main\Projects\VS2019\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+C:\Main\Projects\VS2019\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Main\Projects\VS2019\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Main\Projects\VS2019\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
